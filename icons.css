@@ -1,0 +1,63 @@
+#user-context-add-friend > [class*=label-]::after {
+  -webkit-mask: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='24' height='24' viewBox='0 0 24 24'%3E%3Cpath fill='currentColor' fill-rule='evenodd' clip-rule='evenodd' d='M21 3h3v2h-3v3h-2V5h-3V3h3V0h2v3Zm-11 9c2.205 0 4-1.795 4-4s-1.795-4-4-4-4 1.795-4 4 1.795 4 4 4Zm0 1c-4.711 0-8 2.467-8 6v1h16v-1c0-3.533-3.289-6-8-6Z'/%3E%3C/svg%3E");
+}
+#user-context-block > [class*=label-]::after {
+  -webkit-mask: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='16' height='16' viewBox='0 0 24 24'%3E%3Cpath fill='currentColor' d='M20 6.002h-6v-3a1 1 0 0 0-1-1H4a1 1 0 0 0-1 1v19h2v-8h5.586l-2.293 2.293A1.002 1.002 0 0 0 9 18.002h11a1 1 0 0 0 1-1v-10a1 1 0 0 0-1-1Z'/%3E%3C/svg%3E");
+}
+#user-context-verify > [class*=label-]::after {
+  -webkit-mask: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='24' height='24' viewBox='0 0 24 24'%3E%3Cpath d='M12 1 3 5v6c0 5.55 3.84 10.74 9 12 5.16-1.26 9-6.45 9-12V5l-9-4Zm0 10.99h7c-.53 4.12-3.28 7.79-7 8.94V12H5V6.3l7-3.11v8.8Z' fill='currentColor'/%3E%3C/svg%3E");
+}
+#user-context-timeout::after {
+  -webkit-mask: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='24' height='24' viewBox='-2 0 24 20'%3E%3Cpath d='m12.83 14.24-3.54-3.53A1.001 1.001 0 0 1 9 10V4h2v5.59l3.24 3.24-1.41 1.41Z' fill='currentColor'/%3E%3Cpath d='M13.31 2 18 6.69v6.62L13.31 18H6.69L2 13.31V6.69L6.69 2h6.62Zm.42-2H6.27a1.05 1.05 0 0 0-.71.29L.29 5.56a1.05 1.05 0 0 0-.29.71v7.46c.004.265.107.518.29.71l5.27 5.27c.192.183.445.286.71.29h7.46a1.05 1.05 0 0 0 .71-.29l5.27-5.27a1.05 1.05 0 0 0 .29-.71V6.27a1.05 1.05 0 0 0-.29-.71L14.44.29a1.05 1.05 0 0 0-.71-.29Z' fill='currentColor'/%3E%3C/svg%3E");
+}
+#user-context-kick::after {
+  -webkit-mask: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='24' height='24' viewBox='0 0 24 24'%3E%3Cpath d='M15,14C17.67,14 23,15.33 23,18L23,20L7,20L7,18C7,15.33 12.33,14 15,14L15,14ZM15,12C12.791,12 11,10.209 11,8C11,5.791 12.791,4 15,4C17.209,4 19,5.791 19,8C19,10.209 17.209,12 15,12L15,12ZM5,9.59L7.12,7.46L8.54,8.88L6.41,11L8.54,13.12L7.12,14.54L5,12.41L2.88,14.54L1.46,13.12L3.59,11L1.46,8.88L2.88,7.46L5,9.59Z' fill='currentColor'/%3E%3C/svg%3E");
+}
+#user-context-ban::after {
+  -webkit-mask: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='24' height='24' viewBox='0 0 24 24'%3E%3Cpath d='m13 2 9 8v2l-4.999 5.001H15L6 9V7l5-5h2Zm4.707.707a1 1 0 0 1 1.421.007l1.401 1.401a1 1 0 1 1-1.414 1.414l-1.401-1.401a1.003 1.003 0 0 1-.007-1.421ZM8.364 13l2.121 2.121-6.364 6.364L2 19.364 8.364 13Z' fill='currentColor'/%3E%3C/svg%3E");
+}
+#user-context-change-nickname > [class*=label-] > [class*=labelWrapper-]::after {
+  -webkit-mask: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='24' height='24' viewBox='0 0 24 24'%3E%3Cpath fill-rule='evenodd' clip-rule='evenodd' d='m19.293 9.83.648-.647a3.628 3.628 0 0 0 0-5.124 3.628 3.628 0 0 0-5.124 0l-.647.648 5.123 5.123Zm-6.397-3.853L5.185 13.69l5.124 5.122 7.711-7.714-5.124-5.122ZM4.12 20.97l4.64-1.159-4.572-4.572-1.16 4.64A.9.9 0 0 0 4.12 20.97Z' fill='currentColor'/%3E%3C/svg%3E") no-repeat 50% 50%;
+}
+#user-context-voice-mute > [class*=label-]::after {
+  -webkit-mask: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='24' height='24' viewBox='0 0 24 24'%3E%3Cpath d='M6.7 11H5c0 1.19.34 2.3.9 3.28l1.23-1.23c-.27-.62-.43-1.31-.43-2.05Zm2.31.085a.46.46 0 0 1 .01.085L15 5.18V5c0-1.66-1.34-3-3-3S9 3.34 9 5v6c0 .03.005.057.01.085Zm2.714 5.008-.76.76-.71.716c.244.064.493.115.746.151V22h2v-4.28c3.28-.49 6-3.31 6-6.72h-1.7c0 3-2.54 5.1-5.3 5.1a5.29 5.29 0 0 1-.276-.007ZM21 4.27 19.73 3 3 19.73 4.27 21l4.19-4.18 1.23-1.24 1.66-1.66 3.64-3.64L21 4.27Z' fill='currentColor'/%3E%3C/svg%3E") no-repeat 50% 50%;
+}
+#user-context-voice-deafen > [class*=label-]::after {
+  -webkit-mask: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='24' height='24' viewBox='0 0 24 24'%3E%3Cpath d='M6.162 15.007A2.02 2.02 0 0 0 6 15H4v-3c0-4.412 3.589-8 8-8 1.48 0 2.87.404 4.06 1.109l1.45-1.45A9.943 9.943 0 0 0 12 2C6.486 2 2 6.485 2 12v7.169l4.162-4.162Zm13.563-5.09c.18.664.275 1.363.275 2.083v3h-2a2 2 0 0 0-2 2v3a2 2 0 0 0 2 2h2a2 2 0 0 0 2-2v-8a9.95 9.95 0 0 0-.695-3.663l-1.58 1.58ZM3.201 23.624 1.787 22.21 21.586 2.411 23 3.825l-19.799 19.8Z' fill='currentColor'/%3E%3C/svg%3E") no-repeat 50% 50%;
+}
+#user-context-voice-disconnect > [class*=label-]::after {
+  -webkit-mask: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='24' height='24' viewBox='0 0 24 24'%3E%3Cpath d='m21.117 1.116 1.767 1.768L19.768 6l3.116 3.116-1.767 1.768L18 7.768l-3.116 3.116-1.767-1.768L16.233 6l-3.116-3.116 1.767-1.768L18 4.232l3.117-3.116ZM18 22h-5C6.925 22 2 17.075 2 11V6a1 1 0 0 1 1-1h4a1 1 0 0 1 1 1v4a1 1 0 0 1-1 1H6c.063 3.938 3 7 7 7v-1a1 1 0 0 1 1-1h4a1 1 0 0 1 1 1v4a1 1 0 0 1-1 1Z' fill='currentColor'/%3E%3C/svg%3E") no-repeat 50% 50%;
+}
+
+/*Styles and other conglomerate shenanigans*/
+#user-context-add-friend > [class*=label-]::after,
+#user-context-block > [class*=label-]::after,
+#user-context-verify > [class*=label-]::after,
+#user-context-timeout::after,
+#user-context-kick::after,
+#user-context-ban::after,
+#user-context-change-nickname > [class*=label-] > [class*=labelWrapper-]::after,
+#user-context-voice-mute > [class*=label-]::after,
+#user-context-voice-deafen > [class*=label-]::after,
+#user-context-voice-disconnect > [class*=label-]::after {
+  content: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='24' height='24'%3E%3Cpath d='' fill='currentColor'/%3E%3C/svg%3E");
+  -webkit-mask-size: cover;
+  background-color: currentColor;
+  position: absolute;
+  right: 8px;
+  width: 18px;
+  height: 18px;
+}
+
+#user-context-voice-mute > [class*=iconContainer-] > svg,
+#user-context-voice-deafen > [class*=iconContainer-] > svg {
+  display: none;
+}
+
+#user-context-timeout > [class*=label-] {display: none;}
+#user-context-kick > [class*=label-] {display: none;}
+#user-context-ban > [class*=label-] {display: none;}
+
+#user-context-timeout::before {content: "Timeout";}
+#user-context-kick::before {content: "Kick";}
+#user-context-ban::before {content: "Ban";}
